@@ -1,0 +1,32 @@
+<div class="container">
+  <h1 class="mt-3">Hotels List</h1>
+  <div class="d-flex justify-content-end mt-3">
+    <a href="" class="btn btn-primary" [routerLink]="['/admin/hotels/add']"
+      >Add Hotel</a
+    >
+  </div>
+  <ng-container *ngIf="hotels$ | async as hotels">
+    <table class="table table-bordered mt-3">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Name</th>
+          <th>Description</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let hotel of hotels">
+          <td>{{ hotel.id }}</td>
+          <td>{{ hotel.name }}</td>
+          <td>{{ hotel.description }}</td>
+          <td>
+            <a class="btn btn-light" [routerLink]="['/admin/hotels', hotel.id]"
+              >Edit
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </ng-container>
+</div>

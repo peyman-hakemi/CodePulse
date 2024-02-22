@@ -1,0 +1,152 @@
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\appsettings.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.exe
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.deps.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.pdb
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Humanizer.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.CodePulse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.build.CodePulse.props
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CodePulse.props
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CodePulse.props
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\scopedcss\bundle\CodePulse.styles.css
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.csproj.CopyComplete
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\refint\CodePulse.dll
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.pdb
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\ref\CodePulse.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\appsettings.Development.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\appsettings.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.exe
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.deps.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.runtimeconfig.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\CodePulse.pdb
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Azure.Core.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Azure.Identity.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Humanizer.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.CodeDom.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Memory.Data.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.csproj.AssemblyReference.cache
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.AssemblyInfoInputs.cache
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.AssemblyInfo.cs
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.csproj.CoreCompileInputs.cache
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.MvcApplicationPartsAssemblyInfo.cs
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.MvcApplicationPartsAssemblyInfo.cache
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets.build.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets.development.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.CodePulse.Microsoft.AspNetCore.StaticWebAssets.props
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.build.CodePulse.props
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CodePulse.props
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CodePulse.props
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\staticwebassets.pack.json
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\scopedcss\bundle\CodePulse.styles.css
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.csproj.CopyComplete
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\refint\CodePulse.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.pdb
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.genruntimeconfig.cache
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\ref\CodePulse.dll
