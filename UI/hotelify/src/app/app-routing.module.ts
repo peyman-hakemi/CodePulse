@@ -5,6 +5,7 @@ import { HotelListComponent } from './features/hotel/hotel-list/hotel-list.compo
 import { AddHotelComponent } from './features/hotel/add-hotel/add-hotel.component';
 import { EditHotelComponent } from './features/hotel/edit-hotel/edit-hotel.component';
 import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blogpost.component';
+import { EditBlogpostComponent } from './features/blog-post/edit-blogpost/edit-blogpost.component';
 
 const routes: Routes = [
   {
@@ -26,6 +27,10 @@ const routes: Routes = [
   {
     path: 'admin/blogposts/add',
     component: AddBlogpostComponent,
+  },
+  {
+    path: 'admin/blogposts/:id',
+    component: EditBlogpostComponent,
   },
 ];
 

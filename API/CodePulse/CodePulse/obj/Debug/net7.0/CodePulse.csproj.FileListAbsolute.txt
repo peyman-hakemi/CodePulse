@@ -150,3 +150,4 @@ E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\refint
 E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.pdb
 E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.genruntimeconfig.cache
 E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\ref\CodePulse.dll
+E:\asp\dotnet projects\CodePulse\API\CodePulse\CodePulse\obj\Debug\net7.0\CodePulse.sourcelink.json
